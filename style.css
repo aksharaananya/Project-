@@ -1,0 +1,11 @@
+#myCanvas{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
+
+body{
+    background-color: cadetblue;
+    cursor: pointer;
+}
+
